@@ -9,7 +9,7 @@
 ```
 mkdir /opt/pylibs/
 cd /opt/pylibs/
-git clone git@code.admaster.co:op/xxx.git
+git clone git@github.com:Witee/project-template.git
 cd xxx
 ```
 
