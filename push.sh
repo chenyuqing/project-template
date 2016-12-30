@@ -1,5 +1,6 @@
 #!/bin/bash
 
+git status
 
 read -p "请输入 commit 信息(n 取消; 回车默认): " commitMsg
 if [ "$commitMsg" == 'n' ]
